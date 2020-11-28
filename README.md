@@ -84,6 +84,6 @@
 
 ### `\secrets`
 
-- `foodshare-d3eee-firebase-adminsdk-muxzq-c6401baa87.json`
+
 
   - private key file for `firebase-config-admin.js`
